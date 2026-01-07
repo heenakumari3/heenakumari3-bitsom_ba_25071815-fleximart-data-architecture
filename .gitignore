@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.log
+
+# Large files
+*.zip
